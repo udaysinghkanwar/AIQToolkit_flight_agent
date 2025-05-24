@@ -204,3 +204,5 @@ We would like to thank the following open source projects that made AIQ toolkit 
 - [Ragas](https://github.com/explodinggradients/ragas)
 - [Semantic Kernel](https://github.com/microsoft/semantic-kernel)
 - [uv](https://github.com/astral-sh/uv)
+
+Thanks
